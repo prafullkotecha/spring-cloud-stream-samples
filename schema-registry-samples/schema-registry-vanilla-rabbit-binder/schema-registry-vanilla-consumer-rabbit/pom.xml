@@ -16,7 +16,7 @@
     </parent>
 
     <properties>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.11.4</avro.version>
         <spring-cloud.version>Hoxton.BUILD-SNAPSHOT</spring-cloud.version>
     </properties>
 
